@@ -15,7 +15,7 @@
         <sonar.host.url>http://localhost:9000</sonar.host.url>
         <sonar.projectKey>org.example:TestSonarQube</sonar.projectKey>
         <sonar.projectName>TestSonarQube</sonar.projectName>
-        <sonar.token>sqp_abced7854ba5a6fb4adf085af633e65f43e3e52f</sonar.token>
+        <sonar.token>sqp_b04d1317192c8cbafbb9a05cdd130faf8aa5fabe</sonar.token>
         <sonar.java.binaries>target/classes</sonar.java.binaries>
         <sonar.sources>src/main/java/</sonar.sources>
         <sonar.tests>src/test/java/</sonar.tests>
